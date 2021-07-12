@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Testando uma atualização de arquivo
-=======
-Testando uma atualização de arquivo
->>>>>>> 27098ee1a83a0b065c1379fd9d692a244ebcfbdf
