@@ -11,3 +11,7 @@ Testando atualização do clone!!!!
 1
 2
 3
+
+Diff
+de 
+arquivos
